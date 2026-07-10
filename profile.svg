@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="725" height="434" viewBox="0 0 725 434">
-<rect width="725" height="434" rx="10" fill="#0d1117" stroke="#30363d"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="747" height="434" viewBox="0 0 747 434">
+<rect width="747" height="434" rx="10" fill="#0d1117" stroke="#30363d"/>
 <g font-family="Consolas,Menlo,monospace" font-size="10.5">
 <text x="22" y="32" xml:space="preserve"><tspan fill="#484f58" xml:space="preserve">                                                        </tspan></text>
 <text x="22" y="45" xml:space="preserve"><tspan fill="#484f58" xml:space="preserve">                                                        </tspan></text>
@@ -32,21 +32,25 @@
 <text x="22" y="396" xml:space="preserve"><tspan fill="#484f58" xml:space="preserve">                       </tspan><tspan fill="#8b949e" xml:space="preserve">+</tspan><tspan fill="#484f58" xml:space="preserve">                                </tspan></text>
 <text x="22" y="409" xml:space="preserve"><tspan fill="#484f58" xml:space="preserve">                   </tspan><tspan fill="#8b949e" xml:space="preserve">*</tspan><tspan fill="#484f58" xml:space="preserve">                                    </tspan></text>
 </g><g font-family="Consolas,Menlo,monospace" font-size="12.5">
-<text x="399" y="74" xml:space="preserve"><tspan fill="#f2cc60" xml:space="preserve">ivan</tspan><tspan fill="#c9d1d9" xml:space="preserve">@</tspan><tspan fill="#79c0ff" xml:space="preserve">ufi.observer</tspan></text>
-<text x="399" y="90" xml:space="preserve"><tspan fill="#8b949e" xml:space="preserve">------------------------------------------</tspan></text>
-<text x="399" y="105" xml:space="preserve"><tspan fill="#e3b341" xml:space="preserve">Host:</tspan><tspan fill="#8b949e" xml:space="preserve"> ............ </tspan><tspan fill="#79c0ff" xml:space="preserve">United Field Initiative</tspan></text>
-<text x="399" y="120" xml:space="preserve"><tspan fill="#e3b341" xml:space="preserve">Kernel:</tspan><tspan fill="#8b949e" xml:space="preserve"> ................ </tspan><tspan fill="#79c0ff" xml:space="preserve">Internal Observer</tspan></text>
-<text x="399" y="136" xml:space="preserve"><tspan fill="#e3b341" xml:space="preserve">OS:</tspan><tspan fill="#8b949e" xml:space="preserve"> ...... </tspan><tspan fill="#79c0ff" xml:space="preserve">Self-Validating World, 13.8B yr</tspan></text>
-<text x="399" y="167" xml:space="preserve"><tspan fill="#e3b341" xml:space="preserve">Research:</tspan><tspan fill="#8b949e" xml:space="preserve"> ................ </tspan><tspan fill="#79c0ff" xml:space="preserve">self-validation</tspan></text>
-<text x="399" y="182" xml:space="preserve"><tspan fill="#8b949e" xml:space="preserve">                    </tspan><tspan fill="#79c0ff" xml:space="preserve">cognition, knowability</tspan></text>
-<text x="399" y="198" xml:space="preserve"><tspan fill="#8b949e" xml:space="preserve">            </tspan><tspan fill="#79c0ff" xml:space="preserve">physics from finite validation</tspan></text>
-<text x="399" y="214" xml:space="preserve"><tspan fill="#e3b341" xml:space="preserve">Languages.Code:</tspan><tspan fill="#8b949e" xml:space="preserve"> .............. </tspan><tspan fill="#79c0ff" xml:space="preserve">Python, C++</tspan></text>
-<text x="399" y="244" xml:space="preserve"><tspan fill="#e3b341" xml:space="preserve">Email:</tspan><tspan fill="#8b949e" xml:space="preserve"> ............. </tspan><tspan fill="#79c0ff" xml:space="preserve">research@ufi.observer</tspan></text>
-<text x="399" y="260" xml:space="preserve"><tspan fill="#e3b341" xml:space="preserve">Web:</tspan><tspan fill="#8b949e" xml:space="preserve"> ........................ </tspan><tspan fill="#79c0ff" xml:space="preserve">ufi.observer</tspan></text>
-<text x="399" y="276" xml:space="preserve"><tspan fill="#e3b341" xml:space="preserve">X / Instagram:</tspan><tspan fill="#8b949e" xml:space="preserve"> ........... </tspan><tspan fill="#79c0ff" xml:space="preserve">@ufi_initiative</tspan></text>
-<text x="399" y="291" xml:space="preserve"><tspan fill="#e3b341" xml:space="preserve">LinkedIn:</tspan><tspan fill="#8b949e" xml:space="preserve"> ................ </tspan><tspan fill="#79c0ff" xml:space="preserve">in/ivan-denysov</tspan></text>
-<text x="399" y="306" xml:space="preserve"><tspan fill="#e3b341" xml:space="preserve">ORCID:</tspan><tspan fill="#8b949e" xml:space="preserve"> ............... </tspan><tspan fill="#79c0ff" xml:space="preserve">0009-0000-3163-4426</tspan></text>
-<text x="399" y="338" xml:space="preserve"><tspan fill="#e3b341" xml:space="preserve">- GitHub Stats </tspan><tspan fill="#8b949e" xml:space="preserve">---------------------------</tspan></text>
-<text x="399" y="353" xml:space="preserve"><tspan fill="#c9d1d9" xml:space="preserve">Repos: 8 | Stars: 0 | Followers: 2</tspan></text>
-<text x="399" y="368" xml:space="preserve"><tspan fill="#c9d1d9" xml:space="preserve">Commits: 49</tspan></text>
+<text x="399" y="35" xml:space="preserve"><tspan fill="#8b949e" xml:space="preserve"></tspan><tspan fill="#e6edf3" xml:space="preserve">Imagination is more important than knowledge</tspan></text>
+<text x="399" y="51" xml:space="preserve"><tspan fill="#8b949e" xml:space="preserve">              </tspan><tspan fill="#e6edf3" xml:space="preserve">— Albert Einstein</tspan></text>
+<text x="399" y="82" xml:space="preserve"><tspan fill="#8b949e" xml:space="preserve">   </tspan><tspan fill="#e6edf3" xml:space="preserve">Sometimes I&#x27;ve believed as many as six</tspan></text>
+<text x="399" y="97" xml:space="preserve"><tspan fill="#8b949e" xml:space="preserve">     </tspan><tspan fill="#e6edf3" xml:space="preserve">impossible things before breakfast</tspan></text>
+<text x="399" y="113" xml:space="preserve"><tspan fill="#8b949e" xml:space="preserve">            </tspan><tspan fill="#e6edf3" xml:space="preserve">— Alice in Wonderland</tspan></text>
+<text x="399" y="128" xml:space="preserve"><tspan fill="#8b949e" xml:space="preserve">---------------------------------------------</tspan></text>
+<text x="399" y="144" xml:space="preserve"><tspan fill="#e3b341" xml:space="preserve">Host:</tspan><tspan fill="#8b949e" xml:space="preserve"> ............... </tspan><tspan fill="#79c0ff" xml:space="preserve">United Field Initiative</tspan></text>
+<text x="399" y="159" xml:space="preserve"><tspan fill="#e3b341" xml:space="preserve">Kernel:</tspan><tspan fill="#8b949e" xml:space="preserve"> ................... </tspan><tspan fill="#79c0ff" xml:space="preserve">Internal Observer</tspan></text>
+<text x="399" y="175" xml:space="preserve"><tspan fill="#e3b341" xml:space="preserve">OS:</tspan><tspan fill="#8b949e" xml:space="preserve"> ......... </tspan><tspan fill="#79c0ff" xml:space="preserve">Self-Validating World, 13.8B yr</tspan></text>
+<text x="399" y="206" xml:space="preserve"><tspan fill="#e3b341" xml:space="preserve">Research:</tspan><tspan fill="#8b949e" xml:space="preserve"> ................... </tspan><tspan fill="#79c0ff" xml:space="preserve">self-validation</tspan></text>
+<text x="399" y="221" xml:space="preserve"><tspan fill="#8b949e" xml:space="preserve">                       </tspan><tspan fill="#79c0ff" xml:space="preserve">cognition, knowability</tspan></text>
+<text x="399" y="237" xml:space="preserve"><tspan fill="#8b949e" xml:space="preserve">               </tspan><tspan fill="#79c0ff" xml:space="preserve">physics from finite validation</tspan></text>
+<text x="399" y="252" xml:space="preserve"><tspan fill="#e3b341" xml:space="preserve">Languages.Code:</tspan><tspan fill="#8b949e" xml:space="preserve"> ................. </tspan><tspan fill="#79c0ff" xml:space="preserve">Python, C++</tspan></text>
+<text x="399" y="283" xml:space="preserve"><tspan fill="#e3b341" xml:space="preserve">Email:</tspan><tspan fill="#8b949e" xml:space="preserve"> ................ </tspan><tspan fill="#79c0ff" xml:space="preserve">research@ufi.observer</tspan></text>
+<text x="399" y="299" xml:space="preserve"><tspan fill="#e3b341" xml:space="preserve">Web:</tspan><tspan fill="#8b949e" xml:space="preserve"> ........................... </tspan><tspan fill="#79c0ff" xml:space="preserve">ufi.observer</tspan></text>
+<text x="399" y="314" xml:space="preserve"><tspan fill="#e3b341" xml:space="preserve">X / Instagram:</tspan><tspan fill="#8b949e" xml:space="preserve"> .............. </tspan><tspan fill="#79c0ff" xml:space="preserve">@ufi_initiative</tspan></text>
+<text x="399" y="330" xml:space="preserve"><tspan fill="#e3b341" xml:space="preserve">LinkedIn:</tspan><tspan fill="#8b949e" xml:space="preserve"> ................... </tspan><tspan fill="#79c0ff" xml:space="preserve">in/ivan-denysov</tspan></text>
+<text x="399" y="345" xml:space="preserve"><tspan fill="#e3b341" xml:space="preserve">ORCID:</tspan><tspan fill="#8b949e" xml:space="preserve"> .................. </tspan><tspan fill="#79c0ff" xml:space="preserve">0009-0000-3163-4426</tspan></text>
+<text x="399" y="376" xml:space="preserve"><tspan fill="#e3b341" xml:space="preserve">- GitHub Stats </tspan><tspan fill="#8b949e" xml:space="preserve">------------------------------</tspan></text>
+<text x="399" y="392" xml:space="preserve"><tspan fill="#c9d1d9" xml:space="preserve">Repos: 7 | Stars: 0 | Followers: 2</tspan></text>
+<text x="399" y="407" xml:space="preserve"><tspan fill="#c9d1d9" xml:space="preserve">Commits: 0</tspan></text>
 </g></svg>
